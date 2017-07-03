@@ -1,3 +1,9 @@
+The following code was given to me by R65 out of Durham as a "Code Challenge". The challenge has not changed as long as the readme is the same staring from "R65 Labs...."
+
+They didn't ask for much and I felt it unescessary to add Redux to the project. I reccmmend editing the sass files and designing it yourself as my styling was minimal as I've moved on from development.
+
+END -RCB
+
 R65 Labs - React Coding Challenge... 
 
 Get your environment ready
