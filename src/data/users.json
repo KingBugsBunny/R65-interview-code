@@ -1,0 +1,30 @@
+[
+	{
+		"firstName": "Anton",
+		"lastName": "Nikolov",
+		"username": "ANikolov",
+		"phone": "3333334444",
+		"email": "ANikolov@gmail.com"
+	},
+	{
+		"firstName": "Dirk",
+		"lastName": "Digler",
+		"username": "DDigler",
+		"phone": "3333334444",
+		"email": "DDigler@gmail.com"
+	},
+	{
+		"firstName": "Homer",
+		"lastName": "Malomey",
+		"username": "HMalomey",
+		"phone": "3333334444",
+		"email": "HMalomey@gmail.com"
+	},
+	{
+		"firstName": "Jotaro",
+		"lastName": "Kujo",
+		"username": "jojo",
+		"phone": "3333334444",
+		"email": "StarPlatinum@gmail.com"
+	}
+]
